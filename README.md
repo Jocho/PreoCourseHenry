@@ -1,2 +1,3 @@
-# PreoCourseHenry
-Este es un repo de prueba del modulo 2 de Henry
+Jose Palencia
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora.
